@@ -8,7 +8,7 @@ import {
   likeRes,
   rateRes,
   unlikeRes,
-} from "../controllers/restaurantController";
+} from "../controllers/restaurantController.js";
 
 const restaurantRoute = express.Router();
 
